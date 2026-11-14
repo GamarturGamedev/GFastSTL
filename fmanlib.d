@@ -1,6 +1,10 @@
 /*
-Open Source Code with General Public License
+Open Source Code with General Public License 3.0 (GPL 3.0)
 Copyright Artur
+GSTL Code
+Created by: Artur
+XArtur
+@gamarturgamedev GitHub
 */
 module fmanlib;
 struct fman
